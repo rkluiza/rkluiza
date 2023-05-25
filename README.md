@@ -6,16 +6,11 @@
 
 ## Fiz cursos de:
 - HTML e CSS
-- JavaScript 
-- TypeScript 
-- Bootstrap
-- Reactjs
 - Java
-- Springboot
   
 ## Estou estudando atualmente:
-- TypeScript
-- Reactjs
+- Phyton
+-Kotlin
   
 ## Minha atividade:
 <div>
@@ -28,25 +23,6 @@
 ## Minhas redes sociais:
 - [LinkedIn](https://www.linkedin.com/in/rkluiza/)
 - [Instagram](https://www.instagram.com/rkluiza/)
-- [Curricul Lattes] ()
-
-## Extra:
-- 🤾‍ Eu jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
+- [Curriculo Lattes] (http://lattes.cnpq.br/5894701728114418)
 
 <hr>
-
-<!--
-OUTRAS IDEIAS
-
-**arthurbertoti/arthurbertoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
--->
