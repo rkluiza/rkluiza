@@ -10,7 +10,7 @@
   
 ## Estou estudando atualmente:
 - Phyton
--Kotlin
+- Kotlin
   
 ## Minha atividade:
 <div>
@@ -23,7 +23,7 @@
 ## Minhas redes sociais:
 - [LinkedIn](https://www.linkedin.com/in/rkluiza/)
 - [Instagram](https://www.instagram.com/rkluiza/)
-- [Curriculo Lattes] (http://lattes.cnpq.br/5894701728114418)
+- [Curriculo Lattes](http://lattes.cnpq.br/5894701728114418)
 
 <hr>
 
