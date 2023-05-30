@@ -26,3 +26,4 @@
 - [Curriculo Lattes] (http://lattes.cnpq.br/5894701728114418)
 
 <hr>
+
