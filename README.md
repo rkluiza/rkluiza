@@ -9,7 +9,7 @@
 - Java
   
 ## Estou estudando atualmente:
-- Phyton
+- Python
 - Kotlin
   
 ## Minha atividade:
