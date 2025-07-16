@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">✨ 20 anos de sol<br>📚 Técnica em Informática pelo IFSUL<br>📚 Graduanda em Ciência da Computação pela UNISINOS<br>🌍 Explorando novas tecnologias</p>
+<p align="left">✨ 20 anos de sol<br>📚 Técnica em Informática pelo IFSUL<br>📚 Graduanda em Ciência da Computação pela UNISINOS<br>🌍 Explorando possibilidades </p>
 
 ###
 
