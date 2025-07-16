@@ -69,6 +69,11 @@
 
 ###
 
+###
+
+<br clear="both">
 <img src="https://raw.githubusercontent.com/rkluiza/rkluiza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
