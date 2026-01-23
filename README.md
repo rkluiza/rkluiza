@@ -61,7 +61,7 @@
 ###
 
 <p align="center">
-  <img src="https://github.com/rkluiza/rkluiza/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/rkluiza/rkluiza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <div align="center">
