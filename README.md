@@ -60,10 +60,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://github.com/rkluiza/rkluiza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rkluiza&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=rkluiza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
